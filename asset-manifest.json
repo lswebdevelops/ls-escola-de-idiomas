@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ls-escola-de-idiomas/static/css/main.42338422.css",
+    "main.js": "/ls-escola-de-idiomas/static/js/main.edd98f84.js",
+    "static/media/lsescoladeidiomas.png": "/ls-escola-de-idiomas/static/media/lsescoladeidiomas.607371e812c5842a45c7.png",
+    "static/media/calendar.png": "/ls-escola-de-idiomas/static/media/calendar.4addc1f7b096031e9028.png",
+    "index.html": "/ls-escola-de-idiomas/index.html",
+    "main.42338422.css.map": "/ls-escola-de-idiomas/static/css/main.42338422.css.map",
+    "main.edd98f84.js.map": "/ls-escola-de-idiomas/static/js/main.edd98f84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42338422.css",
+    "static/js/main.edd98f84.js"
+  ]
+}
