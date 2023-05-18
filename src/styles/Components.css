@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  #about {
+    margin-bottom: 30px;
+    position: relative;
+    height: 250px;
+  }
+  
+  #about:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+  }
+  
+ 
+  
+  #courses table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #courses th, #courses td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+  }
+  
+  #schedule p {
+    margin-bottom: 10px;
+  }
+  
+  #contact a {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  #contact a:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Responsive styles for small screens */
+  @media (max-width: 768px) {
+    #about {
+      height: 150px;
+    }
+  
+    #courses th, #courses td {
+      font-size: 14px;
+    }
+  }
+  
