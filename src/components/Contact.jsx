@@ -7,7 +7,7 @@ function Contact() {
     const mailtoLink = `mailto:ls.escola.de.idiomas@gmail.com?subject=${encodeURIComponent(emailSubject)}&body=${encodeURIComponent(emailBody)}`;
     window.open(mailtoLink, '_self');
   };
-
+  
   return (
     <div>
       <a href="#" onClick={handleEmailClick}>
