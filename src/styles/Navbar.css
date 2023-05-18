@@ -1,6 +1,6 @@
 .name-school {
     width: 100%;
-    height: 150px;
+    height: 450px;
     background-image: url('../images/lsescoladeidiomas.png');
     background-repeat: no-repeat;
     background-size: cover;
@@ -11,7 +11,20 @@
   }
   
   .hr-name-school {
-   
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adjust the shadow as desired */
+  }
+  
+  /* Responsive styles for small screens */
+  @media (max-width: 668px) {
+    .name-school {
+      height: 150px;
+    }
+  }
+  
+  /* Responsive styles for screens between 950px and 768px */
+  @media (max-width: 950px) and (min-width: 668px) {
+    .name-school {
+      height: 250px;
+    }
   }
   

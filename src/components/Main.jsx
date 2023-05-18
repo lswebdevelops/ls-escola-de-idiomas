@@ -15,7 +15,7 @@ return (
     <h2>Cursos</h2>
     <p>Oferecemos cursos de inglês para estudantes a partir de 14 anos. Nossos cursos são projetados para atender a diferentes níveis de proficiência, desde iniciantes até alunos avançados. Todo o material do curso é fornecido digitalmente pela escola.</p>
     
-    <h3>Preços dos Cursos</h3>
+    <h3>Preços dos Cursos<strong>( ano 2023)</strong></h3>
     <table>
       <thead>
         <tr>
